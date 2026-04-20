@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,normal-c-lq
 DOMAIN-KEYWORD,normal-lq
 DOMAIN-KEYWORD,search-lq
 DOMAIN-KEYWORD,search-quic-lq
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -22,5 +21,3 @@ DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,ixigua.com
